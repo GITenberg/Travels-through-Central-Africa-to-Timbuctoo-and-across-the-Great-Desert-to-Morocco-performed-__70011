@@ -1,0 +1,39 @@
+_repo: Travels-through-Central-Africa-to-Timbuctoo-and-across-the-Great-Desert-to-Morocco-performed-__70011
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Caillié, René
+    aliases:
+    - Caillé, René
+    - Caillie, Rene
+    - Caille, Rene
+    birthdate: 1799
+    deathdate: 1838
+    gutenberg_agent_id: '53394'
+    url: http://www.gutenberg.org/2009/agents/53394
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ren%C3%A9_Cailli%C3%A9
+    - https://fr.wikipedia.org/wiki/Ren%C3%A9_Cailli%C3%A9
+  - agent_name: Jomard, Edmé-François
+    gutenberg_agent_id: '55543'
+    url: http://www.gutenberg.org/2009/agents/55543
+description: ''
+gutenberg_issued: '2023-02-10'
+identifiers:
+  gutenberg: '70011'
+language: en
+pgterms:marc904: https://archive.org/download/dli.granth.71285/71285.pdf
+pgterms:marc905: 20230123112713cailli
+pgterms:marc906: '1830'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bHenry Colburn and Richard Bentley, $c1830.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Travels through Central Africa to Timbuctoo and across the Great Desert to
+  Morocco performed in the year 1824-1828, in Two Volumes, Vol. II
+url: http://www.gutenberg.org/ebooks/70011
